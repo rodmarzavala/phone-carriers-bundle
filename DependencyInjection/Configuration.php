@@ -1,6 +1,6 @@
 <?php
 
-namespace Rz\PhoneCarrierBundle\DependencyInjection;
+namespace ZLabs\PhoneCarrierBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;
@@ -18,7 +18,7 @@ class Configuration implements ConfigurationInterface
     public function getConfigTreeBuilder()
     {
         $treeBuilder = new TreeBuilder();
-        $rootNode = $treeBuilder->root('rz_phone_carrier');
+        $rootNode = $treeBuilder->root('zlabs_phone_carrier');
 
         $rootNode
             ->children()

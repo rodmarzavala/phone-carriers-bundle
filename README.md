@@ -1,7 +1,7 @@
-RzPhoneCarrierBundle
+ZlabsPhoneCarrierBundle
 ====================
 
-The RzPhoneCarrierBundle helps you to find carrier name by phone number in Guatemala (+502)
+The ZlabsPhoneCarrierBundle helps you to find carrier name by phone number in Guatemala (+502)
 
 Installation
 ------------
@@ -35,7 +35,7 @@ class AppKernel extends Kernel
         $bundles = array(
             // ...
 
-            new Rz\PhoneCarrierBundle\RzPhoneCarrierBundle(),
+            new ZLabs\PhoneCarrierBundle\PhoneCarrierBundle(),
         );
 
         // ...
@@ -50,7 +50,7 @@ Getting Started
 config.yml:
 
 ```
-rz_phone_carrier:
+zlabs_phone_carrier:
     default_country_code: 502 #Default Country Code
 ```
 
@@ -58,10 +58,10 @@ Inside a controller:
 
 ```
 # This will find the carrier for the default country code:
-$carrier = $this->get('rz_phone_carrier.matcher')->find('59183101');
+$carrier = $this->get('zlabs_phone_carrier.matcher')->find('59183101');
 
 # If you want to find another country code phone number:
-$carrier = $this->get('rz_phone_carrier.matcher')->find('59183101', 1);
+$carrier = $this->get('zlabs_phone_carrier.matcher')->find('59183101', 1);
 ```
 
 TODO:

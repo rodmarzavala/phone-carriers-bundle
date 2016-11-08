@@ -1,6 +1,6 @@
 <?php
 
-namespace Rz\PhoneCarrierBundle\Services;
+namespace ZLabs\PhoneCarrierBundle\Services;
 
 use Symfony\Component\DependencyInjection\ContainerInterface;
 use Symfony\Component\Yaml\Exception\ParseException;
@@ -46,7 +46,7 @@ class MatcherService
         $phone_number = $this->sanitizePhoneNumber($phone_number);
 
         if (!$country_code) {
-            $country_code = $this->container->getParameter('rz_phone_carrier.default_country_code');
+            $country_code = $this->container->getParameter('zlabs_phone_carrier.default_country_code');
         }
 
         $database = $this->load($country_code);

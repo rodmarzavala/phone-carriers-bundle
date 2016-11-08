@@ -1,5 +1,5 @@
 {
-  "name": "rz/carrier-bundle",
+  "name": "zlabs/carrier-bundle",
   "description": "Finds carrier by phone number in Guatemala",
   "type": "symfony-bundle",
   "authors": [
@@ -24,10 +24,10 @@
   },
   "autoload": {
     "psr-0": {
-      "Rz\\PhoneCarrierBundle": ""
+      "ZLabs\\PhoneCarrierBundle": ""
     }
   },
-  "target-dir": "Rz/PhoneCarrierBundle",
+  "target-dir": "ZLabs/PhoneCarrierBundle",
   "repositories": [
   ],
   "extra": {

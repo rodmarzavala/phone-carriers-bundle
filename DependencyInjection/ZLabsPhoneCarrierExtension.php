@@ -1,6 +1,6 @@
 <?php
 
-namespace Rz\PhoneCarrierBundle\DependencyInjection;
+namespace ZLabs\PhoneCarrierBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
@@ -12,7 +12,7 @@ use Symfony\Component\DependencyInjection\Loader;
  *
  * @link http://symfony.com/doc/current/cookbook/bundles/extension.html
  */
-class RzPhoneCarrierExtension extends Extension
+class ZLabsPhoneCarrierExtension extends Extension
 {
     /**
      * {@inheritdoc}
@@ -23,7 +23,7 @@ class RzPhoneCarrierExtension extends Extension
         $config = $this->processConfiguration($configuration, $configs);
 
         foreach ($config as $key => $value) {
-            $container->setParameter('rz_phone_carrier.' . $key, $value);
+            $container->setParameter('zlabs_phone_carrier.' . $key, $value);
         }
 
         $loader = new Loader\XmlFileLoader($container, new FileLocator(__DIR__.'/../Resources/config'));
