@@ -57,11 +57,11 @@ zlabs_phone_carrier:
 Inside a controller:
 
 ```
-# This will find the carrier for the default country code:
-$carrier = $this->get('zlabs_phone_carrier.matcher')->find('59183101');
+// This will find the carrier for the default country code:
+$carrier = $this->get('zlabs_phone_carrier.matcher')->find('47172425');
 
-# If you want to find another country code phone number:
-$carrier = $this->get('zlabs_phone_carrier.matcher')->find('59183101', 1);
+// If you want to find another country code phone number:
+$carrier = $this->get('zlabs_phone_carrier.matcher')->find('47172425', '502');
 ```
 
 TODO:
