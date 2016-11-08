@@ -35,7 +35,7 @@ class AppKernel extends Kernel
         $bundles = array(
             // ...
 
-            new ZLabs\PhoneCarrierBundle\PhoneCarrierBundle(),
+            new ZLabs\PhoneCarrierBundle\ZLabsPhoneCarrierBundle(),
         );
 
         // ...
