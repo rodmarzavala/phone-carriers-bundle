@@ -14,7 +14,7 @@ Open a command console, enter your project directory and execute the
 following command to download the latest stable version of this bundle:
 
 ```
-$ composer require praga/shopify-bundle "dev-master"
+$ composer require zlabs/carrier-bundle "dev-master"
 ```
 
 Step 2: Enable the Bundle
