@@ -1,0 +1,38 @@
+{
+  "name": "rz/carrier-bundle",
+  "description": "Finds carrier by phone number in Guatemala",
+  "type": "symfony-bundle",
+  "authors": [
+    {
+      "name": "Rodmar Zavala",
+      "email": "rzavala@praga.ws"
+    }
+  ],
+  "keywords": [
+    "carrier, phone, number, bundle"
+  ],
+  "license": [
+    "GNU"
+  ],
+  "require": {
+    "php": "^5.5.9 || ^7.0",
+    "symfony/framework-bundle": "^2.7 || ^3.0"
+  },
+  "require-dev": {
+    "symfony/yaml": "^2.7 || ^3.0",
+    "phpunit/phpunit": "~4.8|~5.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Rz\\PhoneCarrierBundle": ""
+    }
+  },
+  "target-dir": "Rz/PhoneCarrierBundle",
+  "repositories": [
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "master-dev"
+    }
+  }
+}

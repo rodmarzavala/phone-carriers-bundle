@@ -1,0 +1,328 @@
+phone_numbers:
+  -
+    min: 30000000
+    max: 30999999
+    carrier: TIGO
+  -
+    min: 31000000
+    max: 31999999
+    carrier: TIGO
+  -
+    min: 32000000
+    max: 32999999
+    carrier: TIGO
+  -
+    min: 33000000
+    max: 33599999
+    carrier: TIGO
+  -
+    min: 34000000
+    max: 34999999
+    carrier: MOVISTAR
+  -
+    min: 35000000
+    max: 35340000
+    carrier: MOVISTAR
+  -
+    min: 40000000
+    max: 40999999
+    carrier: TIGO
+  -
+    min: 41000000
+    max: 41999999
+    carrier: CLARO
+  -
+    min: 42000000
+    max: 42999999
+    carrier: CLARO
+  -
+    min: 43000000
+    max: 43999999
+    carrier: MOVISTAR
+  -
+    min: 44000000
+    max: 44759999
+    carrier: MOVISTAR
+  -
+    min: 44760000
+    max: 44999999
+    carrier: TIGO
+  -
+    min: 45000000
+    max: 45999999
+    carrier: TIGO
+  -
+    min: 46000000
+    max: 46999999
+    carrier: TIGO
+  -
+    min: 47000000
+    max: 47729999
+    carrier: CLARO
+  -
+    min: 47730000
+    max: 47999999
+    carrier: TIGO
+  -
+    min: 48000000
+    max: 48199999
+    carrier: TIGO
+  -
+    min: 48220000
+    max: 48999999
+    carrier: TIGO
+  -
+    min: 49000000
+    max: 49999999
+    carrier: TIGO
+  -
+    min: 40000000
+    max: 40130000
+    carrier: TIGO
+  -
+    min: 50000000
+    max: 50099999
+    carrier: TIGO
+  -
+    min: 50100000
+    max: 50199999
+    carrier: CLARO
+  -
+    min: 50200000
+    max: 50299999
+    carrier: MOVISTAR
+  -
+    min: 50300000
+    max: 50699999
+    carrier: TIGO
+  -
+    min: 50700000
+    max: 51099999
+    carrier: MOVISTAR
+  -
+    min: 51100000
+    max: 51329999
+    carrier: CLARO
+  -
+    min: 51400000
+    max: 51449999
+    carrier: TIGO
+  -
+    min: 51500000
+    max: 52099999
+    carrier: TIGO
+  -
+    min: 52000000
+    max: 52099999
+    carrier: TIGO
+  -
+    min: 52100000
+    max: 52209999
+    carrier: MOVISTAR
+  -
+    min: 52210000
+    max: 52899999
+    carrier: MOVISTAR
+  -
+    min: 52900000
+    max: 52999999
+    carrier: MOVISTAR
+  -
+    min: 53000000
+    max: 53099999
+    carrier: TIGO
+  -
+    min: 53100000
+    max: 53119999
+    carrier: CLARO
+  -
+    min: 53120000
+    max: 53139999
+    carrier: MOVISTAR
+  -
+    min: 53140000
+    max: 53199999
+    carrier: TIGO
+  -
+    min: 53900000
+    max: 53999999
+    carrier: MOVISTAR
+  -
+    min: 54000000
+    max: 54099999
+    carrier: MOVISTAR
+  -
+    min: 54100000
+    max: 54199999
+    carrier: CLARO
+  -
+    min: 54700000
+    max: 54779999
+    carrier: CLARO
+  -
+    min: 54800000
+    max: 54999999
+    carrier: CLARO
+  -
+    min: 55000000
+    max: 55099999
+    carrier: MOVISTAR
+  -
+    min: 55100000
+    max: 55179999
+    carrier: CLARO
+  -
+    min: 55180000
+    max: 55199999
+    carrier: MOVISTAR
+  -
+    min: 55210000
+    max: 55299999
+    carrier: TIGO
+  -
+    min: 55310000
+    max: 55399999
+    carrier: CLARO
+  -
+    min: 55400000
+    max: 55429999
+    carrier: MOVISTAR
+  -
+    min: 55430000
+    max: 55449999
+    carrier: CLARO
+  -
+    min: 55450000
+    max: 55499999
+    carrier: MOVISTAR
+  -
+    min: 55500000
+    max: 55539999
+    carrier: TIGO
+  -
+    min: 55540000
+    max: 55799999
+    carrier: CLARO
+  -
+    min: 55800000
+    max: 55819999
+    carrier: TIGO
+  -
+    min: 55820000
+    max: 55999999
+    carrier: CLARO
+  -
+    min: 56000000
+    max: 56099999
+    carrier: MOVISTAR
+  -
+    min: 56100000
+    max: 56199999
+    carrier: CLARO
+  -
+    min: 56400000
+    max: 56899999
+    carrier: MOVISTAR
+  -
+    min: 56900000
+    max: 56999999
+    carrier: CLARO
+  -
+    min: 57000000
+    max: 57099999
+    carrier: TIGO
+  -
+    min: 57100000
+    max: 57189999
+    carrier: CLARO
+  -
+    min: 57190000
+    max: 57199999
+    carrier: TIGO
+  -
+    min: 57300000
+    max: 57329999
+    carrier: TIGO
+  -
+    min: 57400000
+    max: 57899999
+    carrier: TIGO
+  -
+    min: 57900000
+    max: 57999999
+    carrier: MOVISTAR
+  -
+    min: 58000000
+    max: 58099999
+    carrier: TIGO
+  -
+    min: 58100000
+    max: 58189999
+    carrier: CLARO
+  -
+    min: 58190000
+    max: 58199999
+    carrier: TIGO
+  -
+    min: 58100000
+    max: 58799999
+    carrier: CLARO
+  -
+    min: 58200000
+    max: 58799999
+    carrier: CLARO
+  -
+    min: 58800000
+    max: 59099999
+    carrier: TIGO
+  -
+    min: 58900000
+    max: 59099999
+    carrier: TIGO
+  -
+    min: 59100000
+    max: 59149999
+    carrier: CLARO
+  -
+    min: 59150000
+    max: 59179999
+    carrier: MOVISTAR
+  -
+    min: 59180000
+    max: 59199999
+    carrier: TIGO
+  -
+    min: 59200000
+    max: 59899999
+    carrier: CLARO
+  -
+    min: 59900000
+    max: 59999999
+    carrier: TIGO
+  -
+    min: 58800000
+    max: 58899999
+    carrier: TIGO
+  -
+    min: 57200000
+    max: 57299999
+    carrier: TIGO
+  -
+    min: 53200000
+    max: 53899999
+    carrier: TIGO
+  -
+    min: 57330000
+    max: 57399999
+    carrier: TIGO
+
+carriers:
+  TIGO:
+    name: "TIGO"
+    logo: "data:image/gif;base64,R0lGODlhKAAeAPUGABxVqSBZqyNaqyRbrCZdrShfritgri5isDJlsTZosjtstEJyt0d1uEl2uUx5u1J9vFeBv1qEwF+HwWWMw2mOxmyRxnOXyXaYynydzIGhzoWjz42q05Kt1JWv1Zmy15212KG42qS626e93Kq/3qzA3rLF4LbI4rzM5MDP5sLR5sbU6MnW6szY6tLd7Nji79vk8OLp8+Xr9Obt9enu9uvw9+7y+O/z+PL1+fT2+vb4+vv7+/j6/Pv8/fz9/f7+/gAAACH5BAEAAD8ALAAAAAAoAB4AAAb+wJ9wSCwaj8ikcmncxWY9pjSZ8zwUCghoN/3NUjmpTQJIOBwJwOSG5A5vEAHGx/wgQLDcDvY5hIw5FxdEMwoBEXRLIy1GLCNGHgAURSoaLl1HiUQUBg4aGhiXKSxGLx4WExcnRCoXEhIaL0gUCAgCAgArPw8CIkQeCgQDAwEDJUJ2BMoFCilHFAcOGRghPD0RBBhDHwYHDxwhGw4WPysIBxPhCwcLM0YUBBVEPBEF2j8wCug2QzuyFgUe4BBSAoEBEO/izat3T4SBBIyK4HBQQMMQHA0MkCsCT94QevaEbDCwgMYQFSZs1FhgYMNHCAY8blL4kaEQDgYUwBhiAYDmhRwZM/SjeI9IhYA6XhYY9OPEgQMfhmwggKhCJ5NNDZIw0qFAggocLJCaQNLDihwwFXx4AeNohB8oDiCA8KEDSwf8isx4UIBAMUYmDhjw+aMFgwIPFSAgIPRHhwPKBhBYQOoIjQ8XLJhIhALDhYgxNDhQkGDBBaw/UriawCEGpiQ4XrxA/XrKDjZLcvCoDeiCDCU0MrjhPcQHhAeyjrx48JZ4ERABFnR4sfvHDhccDP1xTmRHBQI5IVCYcMVAvOHcheTQkKDbU8EINIRJb6RFBggLFjzAUJk+Eh400ICefwQWaCBxQQAAOw=="
+  CLARO:
+    name: "CLARO"
+    logo: "data:image/gif;base64,R0lGODlhKAAeAPUTALwAFNcDEeAPHcYFIs4LKcwTKdQWL9cfK+UYIMkiNNUmOOUkK+ItPOgwMug6O80yQeQ2SNdHVOhDS+lIV+pRVupbX9tVZNpse+VnYOtiY+lla+xrbO1wauxwc+13ee59fvCMfOZ5gu6Che6Eh+OBie6Ji/CNjvKeiOCEkOaOmO+Uk/CQkvCZmfa7nfOfoOqlrPOrrOyutO+2u/aysva5t/W+vfnHpfbHx/rTz/XW2Pvi3vjg4vro6vzu7/74+AAAACH5BAEAAD8ALAAAAAAoAB4AAAb+wJ9wSCwaj8ikcslsGm+pixQl8zmvv9cDACgkEgVAImXFJneRLubUstlaoO3jZj7mEgAFqMXvvyUAAzF1RDx4BRsgHyCMjScgeAN0hD8WgQwVmZkZnBkaHBIDYj2EMoEEEBOqExStrawSBaIohGkDBAwSEqu8FTMQBApfpFg5A8cGBgwQu7wSFTgKEDJpg1gvAAYpMikQKxIQ4RAMyxoMMhYEAyRmKAAsLBMwJjAaMzUdIjMeLjcfDAIMDLhgJsSAGgoCIHAwo4OLGjRqsDDhQsKNDDBgKLBghkQAGCUWrDAx4yGMGhdNsGiAg8ICBgE0mHkRYAENHDQmzGBx40awRA8UbuhggUCAgAAhzOQ4KqBBAweZNkjdoKFCqwYLin6sEyGAgAUOKFTY0MGDWQ8dMlCQgPUrMSwxFDZ4tuGDiBJ4R3xIK8HBAqSUus6tkM+EisMmRnhQ6wDBgrdmdhxA8KzDiBXwWKgosdilgBqUhNw4sIDCBhEq4a0Y0aFCAwEvQg/JIYGyZcybgb4ELXuIj4qDNzB2MAJybyE+aqz44OFDiRnGj0ufTr269euhgwAAOw=="
+  MOVISTAR:
+    name: "MOVISTAR"
+    logo: "data:image/gif;base64,R0lGODlhKAAeAPUuAAFyLAKINk6vP2S2Nni+OxedRRiSSiyFUTClSWy8SlCXa1WrfGC4a3nAUbnMHJ/DKLXNL83VDtzdHOnjH87ZKe3lLYjEQJXIQJ/LQ4nFVLLSTKLMW7/XXJLKfbPTae7mT8jccPXsb0B4sGyoh2GyhnS+kFmIumiUwXmfyI3MmZbDq5nRq6HNttLghcbdpoutz56717XawazE3bvP48TfztHm0unwz8ra6d7s5tTh7ev05P796+Hq8+728/n7+wAAACH5BAEAAD8ALAAAAAAoAB4AAAb+wJ9wKNTVajYfcSn0pQiUiZTycDGZPpfG4YC0dtchTUCwaD5ox6YXbrocEYk8AlJee6XBBQMK+ak1bT82EHJyFBADKWE1AhZ8LSAfIR8QLmBhLXETFBcWFwQINFgpehwtGgkQaBAeOmE+GhIVFRgEBBgaAwxsRD0MBBotGwIFA5MQGzZhOhS0FBieFxwYAotEMQJ8GwgBCCseLQ3fYTZoEp8aGGYcFgIxQz7AGiACAQs6Ph3iBSXlaA/IaOCwYRoHAu906EjhiEOGe2z0tchQgEQYFx4IMGDQsMUFehoIDGiQYQAuDggMjPoh0YKBBWFWEFvxS1sLDwbXWSDQwMz+hgAk7OgDQcCAxSspZv7AMW8YBg4aPFn4xGFAABbxOtQz4A9pBmtCsm0A0QJDLqlmNBQ4gGNIjw4c1qqIifCovATCQFzYOzVXgnu+MjxUAO9KtlBtf9RAkEGYh6l7MDQoAGBuPI4AFAS6sjgUViElEHzy4GHDhgwJurFdkiJA5V5MeiAYgCCoENkIBCRo0CCBgG4ARmBR8RlWaAQINv+gYaAAcgQFCrheLahNDekGCoc1EKC7awAHtFe/4oMEAADiFY84wP7AiBvjq+NQoCDxEhw0aNiPL6gHbP4ABijggAQCKFQTdmChhA8HNlFdDieggMIJPMwQ4QwwMCjDCzd/wIDCCxaaAIMMKMDQgwwmzJDgEj68IOGHL5hwwwwinHBDDhOeIIIMN/gwYQ8dihBjj220KIMMI55wghAmvDAiDE66SCGSPUR4gglLCmIkDCPGOIMMJ1hoo5MVijjDhyfgiOWKWIx45JEvvsCDCSbwwCWUNt5wAgwnxCghmz8EAQA7"
